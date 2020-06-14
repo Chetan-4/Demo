@@ -1,2 +1,3 @@
-#/bin/python
+#!/usr/bin/python
 print("first file git")
+print("Second")
